@@ -1,5 +1,5 @@
 ## Projeto
-O projeto é um Exercício de layout do YouTube.
+Um Exercício de layout do YouTube.
 
 
 ## Foto
